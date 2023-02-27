@@ -1,0 +1,16 @@
+2023/02/27-23:25:10.590 2594 Reusing MANIFEST D:\My Work\Puppeteer\Puppeteer Tutorial\temp\Default\Local Storage\leveldb/MANIFEST-000001
+2023/02/27-23:25:10.591 2594 Recovering log #9
+2023/02/27-23:25:10.592 2594 Level-0 table #11: started
+2023/02/27-23:25:10.601 2594 Level-0 table #11: 33247 bytes OK
+2023/02/27-23:25:10.608 2594 Delete type=0 #9
+2023/02/27-23:25:10.609 261c Compacting 4@0 + 0@1 files
+2023/02/27-23:25:10.619 261c Generated table #13@0: 25 keys, 33771 bytes
+2023/02/27-23:25:10.619 261c Compacted 4@0 + 0@1 files => 33771 bytes
+2023/02/27-23:25:10.639 261c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/02/27-23:25:10.642 261c Delete type=2 #3
+2023/02/27-23:25:10.643 261c Delete type=2 #6
+2023/02/27-23:25:10.644 261c Delete type=2 #8
+2023/02/27-23:25:10.644 261c Delete type=2 #11
+2023/02/27-23:26:11.919 261c Level-0 table #15: started
+2023/02/27-23:26:11.929 261c Level-0 table #15: 33390 bytes OK
+2023/02/27-23:26:11.937 261c Delete type=0 #12
